@@ -95,7 +95,7 @@ git clone https://github.com/your-username/ActivityLifecycle.git
 
 ---
 
-## 📖 Working
+## Working
 
 When the application starts:
 
@@ -139,7 +139,7 @@ Each lifecycle callback displays a Toast message on the screen.
 
 ---
 
-## 📸 Output
+## Output
 
 **Main Screen**
 
@@ -163,7 +163,7 @@ Each lifecycle callback displays a Toast message on the screen.
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 - Understand Android Activity states.
 - Learn when lifecycle methods are invoked.
