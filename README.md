@@ -141,25 +141,15 @@ Each lifecycle callback displays a Toast message on the screen.
 
 ## Output
 
-**Main Screen**
 
-```
-+----------------------------------+
-|                                  |
-|                                  |
-|     Android Activity Lifecycle   |
-|                                  |
-|                                  |
-+----------------------------------+
-```
+## Output Video
 
-**Toast Message Example**
+This video demonstrates the Android Activity Lifecycle application and its Toast messages for different lifecycle callback methods.
 
-```
-+------------------+
-|    onPause()     |
-+------------------+
-```
+[![Watch Activity Lifecycle Output Video](https://img.shields.io/badge/Watch-Output%20Video-red?style=for-the-badge&logo=youtube)](https://github.com/karpaga-akshaya/Android_activity_lifecycle_MAD_EXP2/blob/main/OUTPUT_VIDEO.mp4)
+
+**Video Link:** [OUTPUT_VIDEO.mp4](https://github.com/karpaga-akshaya/Android_activity_lifecycle_MAD_EXP2/blob/main/OUTPUT_VIDEO.mp4)
+
 
 ---
 
